@@ -1,0 +1,1 @@
+Incluir uma imagem para cada usuário cadastrado;
