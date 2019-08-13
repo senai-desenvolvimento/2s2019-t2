@@ -1,13 +1,20 @@
-Incluir uma imagem para cada usuário cadastrado;
+- Incluir uma imagem para cada usuário cadastrado;
 
-
-- Seleção - trazer todas as categorias, inclusive as que não possuem lançamentos vinculados.
+- Seleção - trazer todas as categorias, inclusive as que não possuem lançamentos vinculados;
 - Seleção - trazer todas as plataformas, inclusive as que não possuem lançamentos vinculados.
 
--Atualizar o usuário Helena para administrador.
--Deletar a série Deuses Americanos
--Alterar La Casa De Papel 3 temp para La Casa De Papel - 3º Temporada
-- Atualizar data de lançamento do filme O Rei Leão para a data de lançamento da animação original, 08/07/1994, e alterar veiculo para VHS.
-- Insserir 3 filmes que estão atualmente no cinema.
+- Atualizar o usuário Helena para administrador;
+- Deletar a série Deuses Americanos;
+- Alterar La Casa De Papel 3 temp para La Casa De Papel - 3º Temporada;
+- Atualizar data de lançamento do filme O Rei Leão para a data de lançamento da animação original, 08/07/1994, e alterar veiculo para VHS;
+- Insserir 3 filmes que estão atualmente no cinema;
 - Inserir as categorias: Terror, Ação, Comédia, Documentário, Drama e Ficção Científica.
 
+- Criar um procedimento para listar os filmes dado uma categoria em String do usuário;
+	(Listar os filmes da categoria Ação)
+- Criar um procedimento para listar a quantidades de filmes, dada uma categoria por Id;
+	(Listar os filmes da categoria 1 ou o id correspondente da sua tabela).
+- Criar uma view que traga todas as plataformas e que mostre quais os gêneros que passem na plataforma;
+	(Netflix que passa o filme Sing, que é da categoria Animação. Logo, o resultado esperado da view, será da seguinte manteira:
+	Plataforma Gênero/Categoria
+	Netflix Animação)
