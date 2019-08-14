@@ -18,3 +18,6 @@
 	(Netflix que passa o filme Sing, que é da categoria Animação. Logo, o resultado esperado da view, será da seguinte manteira:
 	Plataforma Gênero/Categoria
 	Netflix Animação)
+
+- Inserir dois lançamentos do Filme Guardiões da Galáxia. Inserir um lançamento com o título "Guardiões da Galáxia", mas um no cinema e outro no netflix.
+	- Desafio: listar somente filmes únicos. Quando trouxer a seleção, deverá aparecer somente um Guardiões da Galáxia.
