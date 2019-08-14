@@ -21,3 +21,8 @@
 
 - Inserir dois lançamentos do Filme Guardiões da Galáxia. Inserir um lançamento com o título "Guardiões da Galáxia", mas um no cinema e outro no netflix.
 	- Desafio: listar somente filmes únicos. Quando trouxer a seleção, deverá aparecer somente um Guardiões da Galáxia.
+
+
+- Criar uma view, que dado uma entrada do usuário, por exemplo, 3, mostrar os próximos 3 lançamentos breves. Mostrando também a categoria e a plataforma.
+
+
